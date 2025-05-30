@@ -1,8 +1,8 @@
-.idea
-*.iml
-out
-gen
-main.exe
-install or delete.exe
-.venv
-VirusTotal – Context Menu Edition.zip
+logs
+*.log
+node_modules/
+dist/
+build/
+.env
+.vscode/
+.idea/
